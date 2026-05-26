@@ -1,6 +1,7 @@
 hasCJKLanguage = true
 defaultContentLanguageInSubdir = true
 disableKinds = ["taxonomy", "term"]
+relativeURLs = true
 baseURL = "https://rollfree.github.io/circuit-taiwan/"
 title = "Circuit 台灣"
 theme = "hugo-PaperMod"
