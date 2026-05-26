@@ -1,0 +1,42 @@
+hasCJKLanguage = true
+defaultContentLanguageInSubdir = true
+disableKinds = ["taxonomy", "term"]
+baseURL = "https://rollfree.github.io/circuit-taiwan/"
+title = "Circuit 台灣"
+theme = "hugo-PaperMod"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+buildDrafts = true
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    label = "English"
+    weight = 1
+    [languages.en.params]
+      languageCode = "en-us"
+  [languages.zh]
+    contentDir = "content/zh"
+    label = "繁體中文"
+    weight = 2
+    [languages.zh.params]
+      languageCode = "zh-tw"
+
+[params]
+  # Stop PaperMod from listing posts on the homepage
+  ShowAllPagesInHome = false
+  
+  # Let your _index.md content control the homepage (no theme card override)
+  homeInfoParams = { Title = "", Content = "" }
+  
+  # Tell PaperMod where your journal lives
+  mainSections = ["posts"]
+  
+  # Keep these for better reading experience
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  
+  [params.assets]
+    disableHLJS = false
