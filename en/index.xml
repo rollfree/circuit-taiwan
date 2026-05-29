@@ -1,56 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Circuit Taiwan on Circuit 台灣</title>
-    <link>http://localhost:1313/circuit-taiwan/en/</link>
-    <description>Recent content in Circuit Taiwan on Circuit 台灣</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/circuit-taiwan/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Green Ghost of the Expedition</title>
-      <link>http://localhost:1313/circuit-taiwan/en/posts/green-ghost/</link>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/circuit-taiwan/en/posts/green-ghost/</guid>
-      <description>Balancing zero-emission ideals with real-world infrastructure constraints.</description>
-    </item>
-    <item>
-      <title>The Assistance Vehicle as Mobile Billboard</title>
-      <link>http://localhost:1313/circuit-taiwan/en/posts/contentenpostsmobile-billboard/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/circuit-taiwan/en/posts/contentenpostsmobile-billboard/</guid>
-      <description>35 days of island-wide exposure, filmed daily, in every piece of content.</description>
-    </item>
-    <item>
-      <title>The Methodology: Engineering the Edge</title>
-      <link>http://localhost:1313/circuit-taiwan/en/posts/methodology/</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/circuit-taiwan/en/posts/methodology/</guid>
-      <description>Understanding the four core dimensions of our field research architecture.</description>
-    </item>
-    <item>
-      <title>25 Years Later: Returning to Taiwan at Wheelchair Height</title>
-      <link>http://localhost:1313/circuit-taiwan/en/posts/25-years-later/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/circuit-taiwan/en/posts/25-years-later/</guid>
-      <description>&lt;p&gt;Twenty-five years ago, I drove around Taiwan in a car. The roads were narrower, the Su-Hua Highway still carved raw into cliff faces, and I saw the island at 80 km/h through a windshield.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Circuit Taiwan on Circuit 台灣</title><link>https://rollfree.github.io/circuit-taiwan/en/</link><description>Recent content in Circuit Taiwan on Circuit 台灣</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://rollfree.github.io/circuit-taiwan/en/index.xml" rel="self" type="application/rss+xml"/><item><title>The Green Ghost of the Expedition</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/green-ghost/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/green-ghost/</guid><description>Balancing zero-emission ideals with real-world infrastructure constraints.</description></item><item><title>The Assistance Vehicle as Mobile Billboard</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/contentenpostsmobile-billboard/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/contentenpostsmobile-billboard/</guid><description>35 days of island-wide exposure, filmed daily, in every piece of content.</description></item><item><title>The Methodology: Engineering the Edge</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/methodology/</link><pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/methodology/</guid><description>Understanding the four core dimensions of our field research architecture.</description></item><item><title>25 Years Later: Returning to Taiwan at Wheelchair Height</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/25-years-later/</link><pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/25-years-later/</guid><description>&lt;p&gt;Twenty-five years ago, I drove around Taiwan in a car. The roads were narrower, the Su-Hua Highway still carved raw into cliff faces, and I saw the island at 80 km/h through a windshield.&lt;/p&gt;
 &lt;p&gt;Now, I am returning — at 10 km/h, from wheelchair height.&lt;/p&gt;
 &lt;p&gt;This is not a nostalgia trip. It is an engineering project, a medical field study, and a bilingual story about how Taiwan has transformed.&lt;/p&gt;
-&lt;h2 id=&#34;why-this-matters&#34;&gt;Why This Matters&lt;/h2&gt;
+&lt;h2 id="why-this-matters"&gt;Why This Matters&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;The Su-Hua Highway Improvement Project (蘇花改) was completed in 2021 — the route is newly viable for slow, non-motorised travel.&lt;/li&gt;
 &lt;li&gt;Miniaturised lightning detection (AS3935) + real-time weather APIs now enable a safety system that was impossible even ten years ago.&lt;/li&gt;
 &lt;li&gt;No systematic wheelchair-level accessibility data exists for Taiwan&amp;rsquo;s coastal highways. We will create it — and release it under Creative Commons.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;what-youll-find-here&#34;&gt;What You&amp;rsquo;ll Find Here&lt;/h2&gt;
+&lt;h2 id="what-youll-find-here"&gt;What You&amp;rsquo;ll Find Here&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;🛠️ Engineering logs: lightning detection, LTE dead zones, battery performance in monsoon conditions&lt;/li&gt;
 &lt;li&gt;🩺 Medical telemetry: thermoregulation, fatigue, cardiovascular response in sustained tropical exertion&lt;/li&gt;
 &lt;li&gt;🗺️ Accessibility maps: surface quality, shelter locations, gradient data — all downloadable&lt;/li&gt;
 &lt;li&gt;📖 Bilingual narrative: Taiwan seen at wheelchair height, 25 years later&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This is Circuit 台灣. Welcome.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;This is Circuit 台灣. Welcome.&lt;/p&gt;</description></item></channel></rss>
