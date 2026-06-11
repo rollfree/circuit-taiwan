@@ -1,0 +1,33 @@
+﻿/* === WIDTH & FONTS === */
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+:root { --main-width: 1024px; }
+.main { max-width: 1024px !important; }
+body, h1, h2, h3, h4, h5, h6, p, li, td, th, a, span, div, .post-title, .post-description {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif !important;
+}
+body { font-size: 0.95rem !important; }
+/* Make Journal menu icon bigger & bolder */
+.menu a .material-icons {
+    font-size: 28px;        /* Bigger (default is ~20px) */
+    vertical-align: middle; /* Aligns with text */
+    margin-right: 6px;      /* Spacing from "Journal" text */
+}
+
+/* Optional: Extra bold effect */
+.menu a .material-icons {
+    -webkit-text-stroke: 0.5px currentColor;
+}
+/* === NUCLEAR: HIDE EVERYTHING AFTER HORIZONTAL RULE === */
+.home > div:nth-last-child(-n+2),
+.home .post-entry,
+.home .post-list,
+.home article,
+.home section:not(:first-child) {
+    display: none !important;
+}
+
+/* === ALTERNATIVE: HIDE BY CONTENT STRUCTURE === */
+body.home main > div:last-child,
+body.home main > section:last-of-type {
+    display: none !important;
+}

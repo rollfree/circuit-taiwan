@@ -1,14 +1,16 @@
+# === BASE CONFIG ===
+baseURL = "https://rollfree.github.io/circuit-taiwan/"
+canonifyURLs = true
 hasCJKLanguage = true
 defaultContentLanguageInSubdir = true
 disableKinds = ["taxonomy", "term"]
-relativeURLs = true
-baseURL = "https://rollfree.github.io/circuit-taiwan/"
 title = "Circuit 台灣"
 theme = "hugo-PaperMod"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 buildDrafts = true
 
+# === LANGUAGES ===
 [languages]
   [languages.en]
     contentDir = "content/en"
@@ -16,30 +18,54 @@ buildDrafts = true
     weight = 1
     [languages.en.params]
       languageCode = "en-us"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      name = "☰ Journal"
+      url = "posts/"
+      weight = 1
+
   [languages.zh]
     contentDir = "content/zh"
     label = "繁體中文"
     weight = 2
     [languages.zh.params]
       languageCode = "zh-tw"
+    [[languages.zh.menu.main]]
+      identifier = "posts"
+      name = "☰ 日誌"
+      url = "posts/"
+      weight = 1
 
+  [languages.fr]
+    contentDir = "content/fr"
+    label = "Français"
+    weight = 3
+    [languages.fr.params]
+      languageCode = "fr-fr"
+    [[languages.fr.menu.main]]
+      identifier = "posts"
+      name = "☰ Journal"
+      url = "posts/"
+      weight = 1
+
+# === PAPERMOD SETTINGS ===
 [params]
-  # Stop PaperMod from listing posts on the homepage
+  ShowPostsOnHomePage = false
   ShowAllPagesInHome = false
-  
-  # Let your _index.md content control the homepage (no theme card override)
   homeInfoParams = { Title = "", Content = "" }
-  
-  # Tell PaperMod where your journal lives
-  mainSections = ["posts"]
-  
-  # Keep these for better reading experience
+  mainSections = []
   ShowCodeCopyButtons = true
   ShowToc = true
   ShowReadingTime = true
   ShowBreadCrumbs = true
-  
+  [pagination]
+    pagerSize = 9999
   [params.assets]
+<<<<<<< HEAD
     disableHLJS = false
 
   
+=======
+    disableFingerprinting = true
+    disableHLJS = false
+>>>>>>> ad445a9 (Add new posts, fix .gitignore, and untrack public folder)
