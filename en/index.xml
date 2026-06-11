@@ -1,1 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Circuit Taiwan on Circuit 台灣</title><link>https://rollfree.github.io/circuit-taiwan/en/</link><description>Recent content in Circuit Taiwan on Circuit 台灣</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://rollfree.github.io/circuit-taiwan/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Proven Success: Case Studies &amp; ROI Analysis</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/sponsorship-case-studies/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/sponsorship-case-studies/</guid><description>Real-world examples of successful adaptive mobility, cultural documentation, and tech-for-good expeditions with measurable sponsor ROI.</description></item><item><title>The Connectivity Challenge: Proving Taiwan's Network Prowess</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/connectivity-challenge/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/connectivity-challenge/</guid><description>We are challenging Taiwan&amp;#39;s top telecom providers to prove their 4G/5G coverage on the rugged East Coast and Su-Hua Highway.</description></item><item><title>The AI Co-Pilot: Our Silent Crew Member</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/ai-co-pilot/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/ai-co-pilot/</guid><description>How a modular Artificial Intelligence stack powers the safety, logistics, and storytelling of Circuit Taiwan.</description></item><item><title>Cultural &amp; Indigenous Engagement: Respecting Traditional Territories</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/cultural-indigenous-engagement/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/cultural-indigenous-engagement/</guid><description>Our protocol for engaging with Taiwan&amp;#39;s indigenous communities along the coastal route.</description></item><item><title>Medical Protocol &amp; Field Safety Architecture</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/medical-safety-protocol/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/medical-safety-protocol/</guid><description>Real-time telemetry, offline-capable alerts, and verified response protocols for 35-day Taiwan circumnavigation.</description></item><item><title>Engineering Advisor Confirmed: Technical Architecture Locked</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/engineering-advisor-confirmed/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/engineering-advisor-confirmed/</guid><description>Bernard joins Circuit Taiwan as Engineering Advisor, bringing route experience and safety-system expertise.</description></item><item><title>Why Local Hotels Beat B&amp;Bs for our Expedition</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/why-hotels-not-bnb/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/why-hotels-not-bnb/</guid><description>The surprising truth about accessibility, logistics, and value for multi-day adaptive travel.</description></item><item><title>Sponsorship Framework: Tiers, Visibility, and Category Exclusivity</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/sponsorship-framework/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/sponsorship-framework/</guid><description>How contribution levels unlock branding, data access, and category protection on Circuit Taiwan.</description></item><item><title>The Green Ghost of the Expedition</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/green-ghost/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/green-ghost/</guid><description>Balancing zero-emission ideals with real-world infrastructure constraints.</description></item><item><title>The Assistance Vehicle as Mobile Billboard</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/contentenpostsmobile-billboard/</link><pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/contentenpostsmobile-billboard/</guid><description>35 days of island-wide exposure, filmed daily, in every piece of content.</description></item><item><title>The Methodology: Engineering the Edge</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/methodology/</link><pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/methodology/</guid><description>Understanding the four core dimensions of our field research architecture.</description></item><item><title>25 Years After: Another Round of Taiwan, at Wheelchair Height</title><link>https://rollfree.github.io/circuit-taiwan/en/posts/25-years-later/</link><pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate><guid>https://rollfree.github.io/circuit-taiwan/en/posts/25-years-later/</guid><description>&lt;p&gt;Twenty-five years ago, I drove around Taiwan in a car. The roads were narrower, the Su-Hua Highway still carved raw into cliff faces, and I saw the island at 80 km/h through a windshield.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Circuit Taiwan on Circuit 台灣</title>
+    <link>https://rollfree.github.io/circuit-taiwan/en/</link>
+    <description>Recent content in Circuit Taiwan on Circuit 台灣</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rollfree.github.io/circuit-taiwan/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proven Success: Case Studies &amp; ROI Analysis</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/sponsorship-case-studies/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/sponsorship-case-studies/</guid>
+      <description>Real-world examples of successful adaptive mobility, cultural documentation, and tech-for-good expeditions with measurable sponsor ROI.</description>
+    </item>
+    <item>
+      <title>The Connectivity Challenge: Proving Taiwan&#39;s Network Prowess</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/connectivity-challenge/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/connectivity-challenge/</guid>
+      <description>We are challenging Taiwan&amp;#39;s top telecom providers to prove their 4G/5G coverage on the rugged East Coast and Su-Hua Highway.</description>
+    </item>
+    <item>
+      <title>The AI Co-Pilot: Our Silent Crew Member</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/ai-co-pilot/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/ai-co-pilot/</guid>
+      <description>How a modular Artificial Intelligence stack powers the safety, logistics, and storytelling of Circuit Taiwan.</description>
+    </item>
+    <item>
+      <title>Cultural &amp; Indigenous Engagement: Respecting Traditional Territories</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/cultural-indigenous-engagement/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/cultural-indigenous-engagement/</guid>
+      <description>Our protocol for engaging with Taiwan&amp;#39;s indigenous communities along the coastal route.</description>
+    </item>
+    <item>
+      <title>Medical Protocol &amp; Field Safety Architecture</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/medical-safety-protocol/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/medical-safety-protocol/</guid>
+      <description>Real-time telemetry, offline-capable alerts, and verified response protocols for 35-day Taiwan circumnavigation.</description>
+    </item>
+    <item>
+      <title>Engineering Advisor Confirmed: Technical Architecture Locked</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/engineering-advisor-confirmed/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/engineering-advisor-confirmed/</guid>
+      <description>Bernard joins Circuit Taiwan as Engineering Advisor, bringing route experience and safety-system expertise.</description>
+    </item>
+    <item>
+      <title>Why Local Hotels Beat B&amp;Bs for our Expedition</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/why-hotels-not-bnb/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/why-hotels-not-bnb/</guid>
+      <description>The surprising truth about accessibility, logistics, and value for multi-day adaptive travel.</description>
+    </item>
+    <item>
+      <title>Sponsorship Framework: Tiers, Visibility, and Category Exclusivity</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/sponsorship-framework/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/sponsorship-framework/</guid>
+      <description>How contribution levels unlock branding, data access, and category protection on Circuit Taiwan.</description>
+    </item>
+    <item>
+      <title>The Green Ghost of the Expedition</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/green-ghost/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/green-ghost/</guid>
+      <description>Balancing zero-emission ideals with real-world infrastructure constraints.</description>
+    </item>
+    <item>
+      <title>The Assistance Vehicle as Mobile Billboard</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/contentenpostsmobile-billboard/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/contentenpostsmobile-billboard/</guid>
+      <description>35 days of island-wide exposure, filmed daily, in every piece of content.</description>
+    </item>
+    <item>
+      <title>The Methodology: Engineering the Edge</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/methodology/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/methodology/</guid>
+      <description>Understanding the four core dimensions of our field research architecture.</description>
+    </item>
+    <item>
+      <title>25 Years After: Another Round of Taiwan, at Wheelchair Height</title>
+      <link>https://rollfree.github.io/circuit-taiwan/en/posts/25-years-later/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://rollfree.github.io/circuit-taiwan/en/posts/25-years-later/</guid>
+      <description>&lt;p&gt;Twenty-five years ago, I drove around Taiwan in a car. The roads were narrower, the Su-Hua Highway still carved raw into cliff faces, and I saw the island at 80 km/h through a windshield.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
