@@ -61,11 +61,6 @@ buildDrafts = true
   [pagination]
     pagerSize = 9999
   [params.assets]
-<<<<<<< HEAD
     disableHLJS = false
-
-  
-=======
     disableFingerprinting = true
-    disableHLJS = false
->>>>>>> ad445a9 (Add new posts, fix .gitignore, and untrack public folder)
+

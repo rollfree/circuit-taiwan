@@ -60,6 +60,6 @@ For partnership inquiries, sponsorship opportunities, or research collaboration:
 
 **Email:** [rollfree](mailto:rollfree142@gmail.com)
 
-*Note: This contact will be updated once the official CAaN entity name and domain are finalized.*
+*Note: This contact will be updated once the official Site name and domain are finalized.*
 
 *Planning Phase 2026 - Confidential Draft - rollfree
